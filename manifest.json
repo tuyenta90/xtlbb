@@ -1,0 +1,64 @@
+﻿{
+    "app": {
+        "name": "XTLBB",
+        "code": "xtlbb",
+        "platform": "windows",
+        "type": "bot",
+        "author": "xAuto Team"
+    },
+
+    "current": {
+        "version": "1.0.2.0",
+        "build": 1020,
+        "release_date": "2026-02-14",
+        "force_update": true,
+        "min_supported_version": "1.0.1"
+    },
+
+    "download": {
+        "url": "https://github.com/tuyenta90/xtlbb/releases/download/v1.0.2.0/xtlbb_v1.0.2.0.zip",
+        "size": 384871,
+        "hash": {
+            "type": "sha256",
+            "value": "fc0442d54a514e5a1709a895bb8b8bee873119920f18921d608c29b65c226f65"
+        }
+    },
+
+    "files": [
+        {
+          "path": "Dbgview.exe",
+          "size": 887160,
+          "hash": {
+                "type": "sha256",
+                "value": "374136c3136dfe14eb3b18908f64fa21b00eb0d8456d2de9e135d3b29cd1de2f"
+            }
+        },
+        {
+            "path": "manifest.json",
+            "size": 1527,
+            "hash": {
+                "type": "sha256",
+                "value": "374136c3136dfe14eb3b18908f64fa21b00eb0d8456d2de9e135d3b29cd1de2f"
+            }
+        }
+    ],
+     
+    "update_history": [
+        {
+            "version": "1.0.2.0",
+            "build": 1020,
+            "date": "2026-02-14",
+            "type": "feature",
+            "changes": [
+                "Thêm tính năng A",
+                "Fix crash khi game restart"
+            ]
+        }
+    ]
+}
+
+
+
+
+
+
