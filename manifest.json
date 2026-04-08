@@ -24,6 +24,15 @@
         }
     },
 
+    "launch" : {
+        "exe": "xtlbb.exe",
+        "working_dir": ".",
+        "dll": "",
+        "args": "",
+        "require_admin": false,
+        "delay": 1000
+    },
+
     "files": [
         {
           "path": "Dbgview.exe",
